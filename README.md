@@ -1,3 +1,11 @@
+<strong>  Note : Hello i used here json server for data storing.</strong>
+           
+  <p> 1 :-  So firstly you need to start json server .</p>      
+  <p> A :- open json-backend folder in terminal </p>
+  <p> B :- &  run this command :- json-server --watch --port=5000 db.json</p>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

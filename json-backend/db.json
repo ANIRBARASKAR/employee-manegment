@@ -1,0 +1,31 @@
+{
+  "employeeData": [
+    {
+      "name": "Aniruddha Baraskar",
+      "email": "anir@gmail.com",
+      "emp_id": "S0001",
+      "designation": "React JS Developer",
+      "mobile": "9421782016",
+      "address": "xyz",
+      "id": 1
+    },
+    {
+      "name": "Harshal Jain",
+      "email": "harsh@11gmail.com",
+      "emp_id": "HS7011",
+      "designation": "MERN stack Developer",
+      "mobile": "9421782016",
+      "address": "India",
+      "id": 2
+    },
+    {
+      "name": "Pratik Shejul",
+      "email": "pratik@email.com",
+      "emp_id": "H193",
+      "designation": "Fullstack Developer",
+      "mobile": "1234567888",
+      "address": "abc.......",
+      "id": 3
+    }
+  ]
+}
